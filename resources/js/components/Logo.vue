@@ -10,7 +10,7 @@
                     style="height: 382px;"
                     class="block shadow rounded-lg flex items-center justify-center mb-6"
             >
-                <img src="/images/logo.svg" alt="logo"/>
+                <img src="/images/logo.svg" alt="logo" />
             </picture>
 
             <div class="flex justify-between items-center">
@@ -19,8 +19,8 @@
                 <a
                         href="/images/logo.svg"
                         class="border border-grey-light px-8 py-2 rounded-full text-black font-bold text-xs"
-                >logo.svg</a
-                >
+                >logo.svg
+                </a>
             </div>
         </div>
 
@@ -30,7 +30,7 @@
                     style="height: 382px;"
                     class="block shadow rounded-lg flex items-center justify-center mb-6 bg-blue"
             >
-                <img src="/images/negative-logo.svg" alt="logo"/>
+                <img src="/images/negative-logo.svg" alt="logo" />
             </picture>
 
             <div class="flex justify-between items-center">
@@ -53,7 +53,7 @@
                     style="height: 382px;"
                     class="block shadow rounded-lg flex items-center justify-center mb-6 bg-black"
             >
-                <img src="/images/pure-negative-logo.svg" alt="logo"/>
+                <img src="/images/pure-negative-logo.svg" alt="logo" />
             </picture>
 
             <div class="flex justify-between items-center">
@@ -61,7 +61,9 @@
 
                 <a
                         href="/images/pure-negative-logo.svg"
-                        class="border border-grey-light px-8 py-2 rounded-full text-black font-bold text-xs">pure-negative-logo.svg</a>
+                        class="border border-grey-light px-8 py-2 rounded-full text-black font-bold text-xs"
+                >pure-negative-logo.svg</a
+                >
             </div>
         </div>
     </div>
