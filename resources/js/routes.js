@@ -5,6 +5,7 @@ import Typography from './components/Typography';
 import Mascot from './components/Mascot';
 import Illustrations from './components/Illustrations';
 import Wallpapers from './components/Wallpapers';
+import SiteStats from './components/SiteStats';
 import NotFound from './components/NotFound';
 
 let LoadersAndAnimations = () => import( /* webpackChunkName: "loaders" */'./components/LoadersAndAnimations');
@@ -57,6 +58,11 @@ export default {
             path: '/wallpapers',
             component: Wallpapers,
             name: 'wallpapers'
+        },
+        {
+            path: '/site-stats',
+            component: SiteStats,
+            name: 'site-stats'
         },
     ]
 }
