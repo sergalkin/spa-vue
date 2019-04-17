@@ -26,7 +26,7 @@
         },
 
         created() {
-            axios.get('http://127.0.0.1:8000/api/stats').then(response => {
+            axios.get('http://spa-vue.loc/api/stats').then(response => {
                 this.series = response.data.series;
                 this.lessons = response.data.lessons;
             });
